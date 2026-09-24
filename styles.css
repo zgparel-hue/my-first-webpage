@@ -1,0 +1,27 @@
+body{
+  padding: 25px;
+  background-color: peach;
+}
+.title {
+	color: #5C6AC4;
+}
+
+th{
+   background-color: lightblue;
+   font-family : Helvetica;
+}
+
+td{
+  background-color: blanchedalmond;
+  font-family : Helvetica;
+}
+
+p {
+  font-family : Helvetica;
+}
+
+a {
+  color : black;
+}
+
+
